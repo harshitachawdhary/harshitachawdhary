@@ -5,4 +5,3 @@
 - Doing major specialization in BigData domain
 - interested in NLP and machine learning
 
-  [![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitachawdhary)](https://github-readme-stats.vercel.app/api?username=harshitachawdhary&show_icons=true&theme=radical)
